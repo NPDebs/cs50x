@@ -1,5 +1,7 @@
+// Import c library to provide functions for input/output ops.
 #include <stdio.h>
 
+// Define the main function which returns an integer value.
 int main() {
     printf("Start the countdown!\n");
 
